@@ -1,0 +1,10 @@
+.env
+__pycache__/
+chatbot_env/
+*.pyc
+*.pyo
+*.pyd
+.env.*
+.DS_Store
+.idea/
+.vscode/
